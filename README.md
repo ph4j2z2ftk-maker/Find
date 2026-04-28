@@ -26,5 +26,4 @@
 
 
    ```bash
-   git clone [https://github.com/your-username/Find-app.git](https://github.com/your-username/Find-app.git)
-   cd Find-app
+
