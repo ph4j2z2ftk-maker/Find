@@ -1,11 +1,11 @@
 # Find
-# 📍 CampusFound - Astana Student Lost & Found
+#  CampusFound - Astana Student Lost & Found
 
 **CampusFound** is a localized web application designed for students in Astana to report found items and search for lost belongings. The app is siloed by school, ensuring that students at **Quantum Stem**, **Quantum Tech**, and **Riviera** only see items relevant to their specific campus.
 
 ---
 
-## 🚀 Features
+##  Features
 
 * **School Selection:** Users select their specific school on entry to filter the feed.
 * **Photo Uploads:** Integrated camera/file support to show exactly what was found.
@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Backend:** Python 3 + Flask
 * **Database:** SQLite3 (Local storage)
@@ -24,9 +24,7 @@
 
 ---
 
-## 📥 Installation & Setup
 
-1. **Clone the repository:**
    ```bash
    git clone [https://github.com/your-username/Find-app.git](https://github.com/your-username/Find-app.git)
    cd Find-app
